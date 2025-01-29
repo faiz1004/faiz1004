@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🌱 Currently enhancing my **MERN Stack** skills.
 - 💼 Available for freelance projects and collaborations.
-- 🌐 Check out my portfolio: [My Portfolio](#https://my-portfolio-w367.vercel.app/)
+- 🌐 Check out my portfolio: [My Portfolio](#)
 - 📝 I regularly write blogs on **JavaScript & Apps Script**. [Read here](#)
 - 📫 **Reach me at:** Faiz@example.com
 
