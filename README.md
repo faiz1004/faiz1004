@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Suhail</h1>
-<h3 align="center">🚀 MERN Stack Developer | Frontend Enthusiast | Backend Explorer</h3>
+<h1 align="center">Hi 👋, I'm Faiz</h1>
+<h3 align="center">🚀 Web Developer | Frontend Enthusiast | MERN Stack Explorer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="400"/>
@@ -11,8 +11,8 @@
 - 🌱 Currently enhancing my **MERN Stack** skills.
 - 💼 Available for freelance projects and collaborations.
 - 🌐 Check out my portfolio: [My Portfolio](#)
-- 📝 I regularly write blogs on **MERN Development & SEO**. [Read here](#)
-- 📫 **Reach me at:** suhail@example.com
+- 📝 I regularly write blogs on **JavaScript & Apps Script**. [Read here](#)
+- 📫 **Reach me at:** Faiz@example.com
 
 ---
 
@@ -33,10 +33,10 @@
 ---
 
 ### 🏆 Achievements
-- ⭐ Built **Style Ace**, an online clothing store using WordPress.
-- 🌟 Created **News Hippo**, a React-based news website.
-- 📦 Developed an all-in-one e-commerce platform, **Marhaba Chikan**.
-- ✅ Completed an internship at Cloudfort Technologies as a MERN stack developer.
+- ⭐ Built **Dailyfy Hub**, an online Stationery store using JavaScript.
+- 🌟 Created **Article Summarizer**, a React-based news website.
+- 📦 Developed an all-in-one e-commerce platform, **Shop-House**.
+- ✅ Completed an internship at Cloudfort Technologies as a Web developer.
 
 ---
 
