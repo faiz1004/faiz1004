@@ -42,7 +42,7 @@
 
 ### 🌟 Let's Connect
 <p>
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="_blank"><img src="https://www.linkedin.com/in/faiz-mohammad-4b193b24b/"/></a>
+  <a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:suhail@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/YourGitHubUsername" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
