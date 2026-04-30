@@ -16,7 +16,7 @@ Google Apps Script Engineer and Full-Stack Developer with hands-on experience<br
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faiz1004&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faiz1004&theme=tokyonight)
 
 ---
 ![](https://komarev.com/ghpvc/?username=faiz1004&label=Profile+Views&color=blueviolet&style=for-the-badge)
